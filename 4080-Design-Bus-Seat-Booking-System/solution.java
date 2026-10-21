@@ -16,6 +16,7 @@ class BusBooking {
             totalTime-=seats[row][col];
             bookedCount--;
             seats[row][col]=0;
+            return;
         }
         int cost=1;
         if(col == 0 && seats[row][1]>0 || (col == 3 && seats[row][2] > 0)) {
