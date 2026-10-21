@@ -116,8 +116,8 @@ busBooking.getMinTime(); // return 1. With the best possible booking order, the 
 ## Solution
 
 - **Language**: Java
-- **Runtime**: 2 ms
-- **Memory**: 41.8 MB
+- **Runtime**: 3 ms
+- **Memory**: 42.1 MB
 
 ---
 
